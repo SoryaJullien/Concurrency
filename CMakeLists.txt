@@ -15,7 +15,7 @@ set(CMAKE_DEBUG_POSTFIX "_d")
 include(GNUInstallDirs)
 
 add_subdirectory(lib)
-add_subdirectory(tests)
+#add_subdirectory(tests)
 
 # Create ConcurrencyConfig.cmake
 set(ConfigPackageLocation ${CMAKE_INSTALL_LIBDIR}/Concurrency)
