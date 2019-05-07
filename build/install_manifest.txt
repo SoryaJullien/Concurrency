@@ -1,9 +1,0 @@
-/usr/local/lib/Concurrency/ConcurrencyTargets.cmake
-/usr/local/lib/Concurrency/ConcurrencyTargets-noconfig.cmake
-/usr/local/lib/Concurrency/ConcurrencyConfig.cmake
-/usr/local/lib/Concurrency/ConcurrencyConfigVersion.cmake
-/usr/local/include/rtb/concurrency/Latch.h
-/usr/local/include/rtb/concurrency/Queue.h
-/usr/local/include/rtb/concurrency/Concurrency.h
-/usr/local/include/rtb/concurrency/Queue.cpp
-/usr/local/lib/libConcurrency.a
